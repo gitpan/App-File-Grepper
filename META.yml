@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-File-Grepper
-version:            0.03
+version:            0.04
 abstract:           Greps files for pattern
 author:
     - Johan Vromans <jv@cpan.org>
