@@ -32,6 +32,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Encode" : "0",
             "File::Find" : "0",
             "Getopt::Long" : "2.13",
             "Term::ANSIColor" : "0",
@@ -40,5 +41,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.05"
+   "version" : "0.06"
 }
